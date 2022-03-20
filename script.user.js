@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kirka Hack v2
 // @version      2.1
-// @description  toggle aimbot: X; toggle wallhack: C
+// @description  FEATURES: AimBot with ON/OFF key is X; Wallhack with ON/OFF key is C
 // @author       infi
 // @match        *://kirka.io/*
 // @icon         https://www.google.com/s2/favicons?domain=kirka.io
@@ -10,12 +10,12 @@
 // @grant        GM_xmlhttpRequest
 // @run-at       document-start
 // @noframes
-// @namespace https://github.com/iBLiSSIN/kirka.io-best-hack
+// @namespace https://github.com/iBLiSSIN/Kirka.io_HACK
 // ==/UserScript==
 
 document.addEventListener("DOMContentLoaded", () => {
     GM_xmlhttpRequest({
-        url: 'https://raw.githubusercontent.com/iBLiSSIN/kirka.io-best-hack/main/kirka_hacksV2.js',
+        url: 'https://raw.githubusercontent.com/iBLiSSIN/Kirka.io_HACK/main/kirka_hacksV2.js',
         method: "GET",
         nocache: true,
         cache: "no-cache",
