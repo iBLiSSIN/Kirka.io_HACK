@@ -2,7 +2,7 @@
 // @name         Kirka Hack v2
 // @version      2.1
 // @description  FEATURES: AimBot with ON/OFF key is X; Wallhack with ON/OFF key is C
-// @author       infi
+// @author       ExonGlitchTTV
 // @match        *://kirka.io/*
 // @icon         https://www.google.com/s2/favicons?domain=kirka.io
 // @connect      raw.githubusercontent.com
