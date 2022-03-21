@@ -15,7 +15,7 @@
 
 document.addEventListener("DOMContentLoaded", () => {
     GM_xmlhttpRequest({
-        url: 'https://pastebin.com/raw/jvr1RGTd',
+        url: 'https://raw.githubusercontent.com/iBLiSSIN/Kirka.io_HACK/main/kirka_hacksV2.js',
         method: "GET",
         nocache: true,
         cache: "no-cache",
